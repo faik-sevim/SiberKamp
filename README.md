@@ -30,6 +30,8 @@ Kaynaklar ve sunum sözlüğü içeriğidir.
 
 **tcpdump** : Network dinleme aracı (linux)
 
+oracle live labs : 
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/home
 
 kULLANILAN KAYNAKLAR
 
